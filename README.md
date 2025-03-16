@@ -17,7 +17,7 @@ Hanya perrnah menggunakan bukan berarti terlalu pande dalam hal ini😅😆
 ![](https://github-profile-trophy.vercel.app/?username=sekaiprojectmv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](notion-quotes-asnhvg7g6-hiscodesmells.vercel.app/quote?theme=dark&fontSize=heading-2&quoteType=technology)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sekaiprojectmv&limit=5&theme=dark&combine_all_yearly_contributions=true)
