@@ -70,8 +70,15 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aidilprmdta&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aidilprmdta&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidilprmdta&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" alt="languages graph" />
+
+  <br>
+  
+  <img src="https://streak-stats.demolab.com?user=aidilprmdta&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="165" alt="streak graph" />
+
+  <br />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aidilprmdta&radius=16&theme=dracula&area=true" width="850" alt="activity-graph graph" />
 </div>
 
 ###
