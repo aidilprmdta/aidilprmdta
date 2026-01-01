@@ -76,13 +76,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aidilprmdta.aidilprmdta&"  />
-</div>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aidilprmdta.aidilprmdta" alt="Visitor Badge">
+</p>
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316owj46g67xmmzlsezr3a2rxram)
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=316owj46g67xmmzlsezr3a2rxram" alt="Spotify Recently Played">
+</p>
 
 ###
 
@@ -94,6 +96,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aidilprmdta/aidilprmdta/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  </picture>
+</p>
 
 ###
