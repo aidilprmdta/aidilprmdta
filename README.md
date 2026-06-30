@@ -104,9 +104,6 @@
 </p>
 
 
-
-
-
 ###
 
 <picture>
@@ -114,8 +111,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aidilprmdta/aidilprmdta/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aidilprmdta/aidilprmdta/output/pacman-contribution-graph.svg">
 </picture>
-
-
 
 ###
 
@@ -126,8 +121,4 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   </picture>
 </p>
-
-
-
 ### 
-okey
