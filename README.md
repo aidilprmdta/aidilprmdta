@@ -99,10 +99,11 @@
 
 ###
 
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=316owj46g67xmmzlsezr3a2rxram" alt="Spotify Recently Played">
-</p>
-
+<div align="center">
+<a href="https://open.spotify.com/user/316owj46g67xmmzlsezr3a2rxram">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316owj46g67xmmzlsezr3a2rxram&amp;unique=1&amp;album=1" alt="Spotify recently played" width="400" />
+</a>
+</div>
 
 ###
 
