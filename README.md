@@ -1,4 +1,4 @@
-s<h4 align="center">Hey 👋What's Up?<br>Aidil Pramadita Putra 🚀 Aspiring Full-Stack Developer | Tech Explorer 🎓 Informatics Engineering @ UIN Suska Riau 🔍 Currently diving deep into Cybersecurity & Robotics. 📍 Duri, Riau. "Turning curiosity into code, one step at a time."</h4>
+<h4 align="center">Hey 👋What's Up?<br>Aidil Pramadita Putra 🚀 Aspiring Full-Stack Developer | Tech Explorer 🎓 Informatics Engineering @ UIN Suska Riau 🔍 Currently diving deep into Cybersecurity & Robotics. 📍 Duri, Riau. "Turning curiosity into code, one step at a time."</h4>
 
 ###
 
@@ -123,6 +123,12 @@ s<h4 align="center">Hey 👋What's Up?<br>Aidil Pramadita Putra 🚀 Aspiring Fu
   </picture>
 </p>
 ### 
+
+
+
+
+
+
 
 
 
