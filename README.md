@@ -1,4 +1,4 @@
-
+d
 <h4 align="center">Hey 👋What's Up?<br>Aidil Pramadita Putra 🚀 Aspiring Full-Stack Developer | Tech Explorer 🎓 Informatics Engineering @ UIN Suska Riau 🔍 Currently diving deep into Cybersecurity & Robotics. 📍 Duri, Riau. "Turning curiosity into code, one step at a time."</h4>
 
 ###
@@ -7,7 +7,7 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-###
+###c
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
